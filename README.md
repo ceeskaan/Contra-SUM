@@ -1,6 +1,6 @@
 ## UvA MSc thesis (Cees Kaandorp)
 
-This is the repository that I will use during my thesis. It mostly includes works that are used for video summarization.
+This repository includes the source code for my MSc thesis named: Video summarization leveraging Contrastive Learning.
 
 ## Video Summarization Pipeline 
 
@@ -53,11 +53,3 @@ These files are used for n-fold cross validation, and are structured in the foll
 ```
 
 
-In total we have 4 datasets: TVSum, SumMe,  OVP and YouTube
-From which two different data setups can be used:
-  * **Canonical**: The standard approach where we split one dataset(TVSum/SumMe) into train and test sets
-  * **Augmented**: For a given dataset (TVSum/SumMe) we extract a test set, and join the rest with all the other datasets to use for training 
-
-## Training
-
-We can train by calling train.py 
