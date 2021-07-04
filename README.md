@@ -1,4 +1,4 @@
-## UvA MSc thesis (Cees Kaandorp)
+## Contra-SUM: Video Summarization using Contrastive Learning
 
 This repository includes the source code for my MSc thesis named: Video summarization leveraging Contrastive Learning.
 
